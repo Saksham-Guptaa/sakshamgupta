@@ -41,15 +41,6 @@ const HeroEnhanced = () => {
                 <Mail className="mr-3 h-6 w-6" />
                 Get In Touch
               </Button>
-
-              <Button
-                variant="outline"
-                size="lg"
-                className="border-border hover:bg-card/50 px-8 py-4 text-lg"
-              >
-                <Download className="mr-3 h-6 w-6" />
-                Download Resume
-              </Button>
             </div>
           </div>
 
